@@ -1,0 +1,9 @@
+{
+  "api_key": "<YOUR-API-KEY>",
+  "kafka_brokers_sasl": [
+    "<YOUR-BROKER-1>",
+    "<YOUR-BROKER-2>"
+  ],
+  "password": "<YOUR-MESSAGE-HUB-PASSWORD>",
+  "user": "<YOUR-MESSAGE-HUB-USER>"
+}
